@@ -15,6 +15,14 @@ of your choice, this is fine as well.
 We recommend having a look at the description in "Cambridge Data Science Hack Notebook.pdf "
 then, so that you get a feeling for the data. 
 
+## Handing in your results
+
+Please send your predictions before 4.00pm to Jonty (jonty.haberfield@aviva.com).
+
+Subject line in the email should be – ‘Aviva Challenge: <NAME>’
+If multiple team members, then use surnames e.g. Hayes Dalglish Haberfield
+Only one submission should be made. 
+
 ## The presentation
 
 Here some hints on how to best go about the presentation for the final day: 
